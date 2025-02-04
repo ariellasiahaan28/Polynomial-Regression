@@ -1,5 +1,5 @@
 # Polynomial-Regression
-This project implements a 1D Polynomial Regression Model and applies it to multiple datasets. The regression model is formulated as a weighted polynomial function with a bias term, and parameters are optimized using Least Squares (LS) and Regularized Least Squares (L2-regularization).
+This project is created for the CSCC11: Introduction to Machine Learning and Data Mining course. It implements a 1D Polynomial Regression Model and applies it to multiple datasets. The regression model is formulated as a weighted polynomial function with a bias term, and parameters are optimized using Least Squares (LS) and Regularized Least Squares (L2-regularization).
 
 The implementation includes a Python script (poly_reg.py) containing the PolynomialRegression class with methods for model fitting, prediction, and error evaluation. The main tasks involve:
 
